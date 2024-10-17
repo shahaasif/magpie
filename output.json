@@ -19,7 +19,7 @@
         "availabilityText": "In Stock at B90 4SB",
         "isAvailable": true,
         "shippingText": "Unavailable for delivery",
-        "shippingDate": null
+        "shippingDate": ""
     },
     {
         "title": "iPhone 11 64GB",
@@ -30,7 +30,7 @@
         "availabilityText": "In Stock at B90 4SB",
         "isAvailable": true,
         "shippingText": "Unavailable for delivery",
-        "shippingDate": null
+        "shippingDate": ""
     },
     {
         "title": "iPhone 12 Pro Max 128GB",
@@ -51,7 +51,7 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Available on 24 Oct 2024",
+        "shippingText": "Available on 2024-10-24",
         "shippingDate": "2024-10-24"
     },
     {
@@ -63,7 +63,7 @@
         "availabilityText": "In Stock",
         "isAvailable": true,
         "shippingText": "Free Shipping",
-        "shippingDate": null
+        "shippingDate": ""
     },
     {
         "title": "Nokia 3310 100MB",
@@ -117,7 +117,7 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Delivers 2024-10-17",
+        "shippingText": "Delivers 17 Oct 2024",
         "shippingDate": "2024-10-17"
     },
     {
@@ -129,7 +129,7 @@
         "availabilityText": "In Stock",
         "isAvailable": true,
         "shippingText": "Free Shipping",
-        "shippingDate": null
+        "shippingDate": ""
     },
     {
         "title": "Samsung Galaxy Flip 128GB",
@@ -162,7 +162,7 @@
         "availabilityText": "In Stock",
         "isAvailable": true,
         "shippingText": "Free Delivery",
-        "shippingDate": null
+        "shippingDate": ""
     },
     {
         "title": "Huawei P Smart 64GB",
@@ -205,7 +205,7 @@
         "colour": "Black",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Order within 6 hours and have it 2024-10-19",
+        "shippingText": "Order within 6 hours and have it 19 Oct 2024",
         "shippingDate": "2024-10-19"
     },
     {
@@ -216,7 +216,7 @@
         "colour": "Grey",
         "availabilityText": "In Stock",
         "isAvailable": true,
-        "shippingText": "Free Delivery 18 Oct 2024",
+        "shippingText": "Free Delivery 2024-10-18",
         "shippingDate": "2024-10-18"
     }
 ]
