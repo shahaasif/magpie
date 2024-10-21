@@ -19,9 +19,7 @@ and the final output of my script is expected be an array of objects similar to 
 
 ```
 
-I used this repository as a starter template.
-
-Also attched is the `output.json`.
+I used 'git clone https://github.com/stickeeuk/magpie-developer-challenge.git' repository as a starter template.
 
 ### Requirements
 
@@ -32,8 +30,12 @@ Also attched is the `output.json`.
 
 ```
 composer install
-cd magpie-developer-challenge
+cd magpie
 git clone https://github.com/shahaasif/magpie.git
 ```
 
 To run the scrape you can use `php src/Scrape.php`
+
+### Note:
+
+Also attched is the `output.json`.
